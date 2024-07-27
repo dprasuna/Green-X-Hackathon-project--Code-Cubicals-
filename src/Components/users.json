@@ -1,0 +1,18 @@
+{
+    "farmer": [
+        {
+            "username": "Harsh",
+            "publicKey": "GBEZZKDEXF74KVFAS2J243DHC3S6UDHHIPFARB3F5GMCWZM4JTHDEGEI",
+            "privateKey":"SDBWDEU6LZY4WNEF6WAORXEJ7Z6L3IKBGLSKWWJGA2VKOVXOII54EY5E",
+            "type": "0"
+        }
+    ],
+    "investor": [
+        {
+            "username": "Akshat",
+            "publicKey": "GCKMH4PIORG24WIEXYUGALFFQZ7CZRKCALBZOLDTCDD5MBZ4AIQTQSL3",
+            "privateKey":"SBEAY5MVLNCQQZY33ENRBJPEE2HIVU7I3YLHZ5STZQADKAL7GOECA6V5",
+            "type": "1"
+        }
+    ]
+}
